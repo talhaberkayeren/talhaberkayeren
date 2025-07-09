@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AD7FF&center=true&vCenter=true&width=435&lines=Hi+there+I'm+Talha+Berkay+Eren;Coffee+in+one+hand+☕️+Code+in+the+other+💻;Always+learning+Always+building)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AD7FF&center=true&vCenter=true&width=500&lines=Hi+there,+it's+Talha!;Still+on+my+learning+journey+🚀;Writing+code,+sipping+coffee+☕;Take+a+look+around+and+enjoy+it+✨)
 
 
 # 👋 Hi there, I'm Talha Berkay Eren
