@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AD7FF&center=true&vCenter=true&width=435&lines=Hi+there+I'm+Talha+Berkay+Eren;Coffee+in+one+hand+☕️+Code+in+the+other+💻;Always+learning+Always+building" alt="Typing SVG" />
+</p>
+
+
 # 👋 Hi there, I'm Talha Berkay Eren
 
 🎓 I'm a 3rd-year Computer Engineering student at Yeditepe University.  
