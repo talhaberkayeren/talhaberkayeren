@@ -16,9 +16,7 @@
 - LinkedIn: [linkedin.com/in/talha-berkay-eren-1b9158225](https://www.linkedin.com/in/talha-berkay-eren-1b9158225)
 - Email: talhaeren879@gmail.com
 
-<p align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" />
-</p>
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
 
 <!--
 **talhaberkayeren/talhaberkayeren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
