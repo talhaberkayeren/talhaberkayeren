@@ -3,7 +3,7 @@
 
 # 👋 Hi, I'm Talha Berkay Eren
 
-🎓 I'm a 3rd-year Computer Engineering student at Yeditepe University.  
+🎓 I'm a 4th-year Computer Engineering student at Yeditepe University.  
 🧠 I'm passionate about software development, algorithms, and exploring new technologies.  
 📌 I use GitHub to document my projects and take part in the open-source ecosystem.
 
